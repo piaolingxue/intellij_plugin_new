@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.piaolingxue.intellijpluginnew.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.piaolingxue.intellijpluginnew.MyBundle
 
 class MyApplicationService {
 
